@@ -12,13 +12,13 @@ Tools Used:
     
 Observation and Results:     
     
-    Analyzed the design with and without initialliation to understand the metastable behaviour of the circuits.
-    Based on calculations and Simultion, verified the frequency of Oscillation with change in supply Voltage, 
-    Operating Temperature and Load capacitance
+    - Analyzed the design with and without initialliation to understand the metastable behaviour of the circuits.
+    - Based on calculations and Simultion, verified the frequency of Oscillation with change in supply Voltage, 
+      operating Temperature and Load capacitance
     
 Conclusion:
     
-    Based on tested cases, observed a specific case in terms of supply voltage and temperature was best suited 
+    - Based on tested cases, observed a specific case in terms of supply voltage and temperature was best suited 
     for high speed operation of the circuit
-    With minimum load capacitance the circuit can work faster
-    Also, an interesting note is that the number of stages is not correlated with delay of the circuit 
+    - With minimum load capacitance the circuit can work faster
+    - Also, an interesting note is that the number of stages is not correlated with delay of the circuit 
