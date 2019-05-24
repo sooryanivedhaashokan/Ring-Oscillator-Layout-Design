@@ -5,15 +5,19 @@
 Report: Created a report file to summarize the work done
 
 Tools Used:
-Mentor Graphics - Tanner L-Edit (Physical Layout)
-Mentor Graphics - Tanner T-Spice (Netlist creation & Simulation)
+                                       
+    --Mentor Graphics 
+        - Tanner L-Edit (Physical Layout)
+        - Tanner T-Spice (Netlist creation & Simulation)
     
 Observation and Results:     
+    
     Analyzed the design with and without initialliation to understand the metastable behaviour of the circuits.
     Based on calculations and Simultion, verified the frequency of Oscillation with change in supply Voltage, Operating Temperature
     and Load capacitance
     
 Conclusion:
+    
     Based on tested cases, observed a specific case in terms of supply voltage and temperature was best suited for high speed operation
     of the circuit
     With minimum load capacitance the circuit can work faster
